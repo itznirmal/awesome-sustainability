@@ -84,6 +84,7 @@ Sustainability focuses on balancing environmental, social, and economic needs to
 - [Ellen MacArthur Foundation](https://ellenmacarthurfoundation.org/) – Global leader on circular economy strategy and innovation.
 - [ShareWaste](https://sharewaste.com/) – App that connects people with food scraps to composters.
 - [Precious Plastic](https://preciousplastic.com/) – Open-source project for plastic recycling systems.
+- [WillItExpire](https://willitexpire.org/) – Free food shelf-life reference citing USDA/FDA/FoodSafety.gov to help households store food correctly and waste less.
 
 ## Policy & Advocacy
 
